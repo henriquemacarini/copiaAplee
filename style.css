@@ -74,16 +74,12 @@ a:visited {
   margin-bottom: 20px;
 }
 
-.fundo-cinza {
+.cinza {
   background-color: #f1f1f3;
-  padding-top: 20px;
-  margin-bottom: 10px;
 }
 
-.fundo-cinza-claro {
+.cinza-claro {
   background-color: #fbfbfd;
-  padding-top: 20px;
-  margin-bottom: 10px;
 }
 
 /* iphone12 ----------------------------*/
@@ -136,8 +132,12 @@ a:visited {
 /* Produtos ------------------------------------*/
 
 .produto {
-  margin-left: 5px;
-  margin-right: 5px;
+  margin-bottom: 10px;
+  height: 600px;
+}
+
+.ipoc-imac-div {
+  padding-top: 20px;
 }
 
 .ipod-imac {
@@ -157,7 +157,12 @@ a:visited {
 }
 
 .macbookair-div {
-  margin-top: 35px;
+  background-color: black;
+  padding-top: 30px;
+}
+
+.air-div {
+  padding-top: 40px;
 }
 
 .air {
@@ -191,6 +196,10 @@ a:visited {
   background-size: contain;
 }
 
+.watchse-div {
+  padding-top: 30px;
+}
+
 .airpodmax {
   height: 350px;
   background-image: url("./img/airpodmax.jpg");
@@ -198,6 +207,9 @@ a:visited {
   background-position: center;
   background-size: contain;
   margin-bottom: 20px;
+}
+.airpodmax-div {
+  padding-top: 30px;
 }
 
 .wolf-div {
