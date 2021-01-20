@@ -70,7 +70,7 @@ a:visited {
 
 .fundo-branco {
   background-image: white;
-  margin-top: 25px;
+  margin-top: 60px;
   margin-bottom: 20px;
 }
 
@@ -80,6 +80,20 @@ a:visited {
 
 .cinza-claro {
   background-color: #fbfbfd;
+}
+
+/* NavBar ---------------------------------- */
+.nav-item {
+  margin: 0 25px;
+  padding: 0;
+}
+.icon {
+  position: relative;
+  bottom: 3px;
+}
+
+.logo {
+  display: none;
 }
 
 /* iphone12 ----------------------------*/
